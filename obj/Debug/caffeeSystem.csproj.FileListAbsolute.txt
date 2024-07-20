@@ -1,0 +1,11 @@
+C:\Users\Rith\Desktop\Project\caffeeSystem\bin\Debug\caffeeSystem.exe.config
+C:\Users\Rith\Desktop\Project\caffeeSystem\bin\Debug\caffeeSystem.exe
+C:\Users\Rith\Desktop\Project\caffeeSystem\bin\Debug\caffeeSystem.pdb
+C:\Users\Rith\Desktop\Project\caffeeSystem\obj\Debug\caffeeSystem.csproj.AssemblyReference.cache
+C:\Users\Rith\Desktop\Project\caffeeSystem\obj\Debug\caffeeSystem.Form1.resources
+C:\Users\Rith\Desktop\Project\caffeeSystem\obj\Debug\caffeeSystem.Properties.Resources.resources
+C:\Users\Rith\Desktop\Project\caffeeSystem\obj\Debug\caffeeSystem.SubForm.ADDFORM.resources
+C:\Users\Rith\Desktop\Project\caffeeSystem\obj\Debug\caffeeSystem.csproj.GenerateResource.cache
+C:\Users\Rith\Desktop\Project\caffeeSystem\obj\Debug\caffeeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rith\Desktop\Project\caffeeSystem\obj\Debug\caffeeSystem.exe
+C:\Users\Rith\Desktop\Project\caffeeSystem\obj\Debug\caffeeSystem.pdb
